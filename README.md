@@ -5,3 +5,7 @@ I set this up using instructions taken from https://cfss.uchicago.edu/setup/git-
 # Repo contents
 
 The repository contains the R One Way ANOVA Variable Selection code.  I added genMatFinalReducedSpace.R that shrinks the model space by assming an ordering of the factor level means (the actual ordering is not yet in place as of May 18, 2021).
+
+# updated file structure
+
+I added Data/ Literature/ and Scripts/ folders, and moved the one way anova stuff to scripts and I changed the name of the repository to Crossprice.
