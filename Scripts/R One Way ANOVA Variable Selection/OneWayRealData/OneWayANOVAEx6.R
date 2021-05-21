@@ -8,7 +8,6 @@ loadOneWayFunctions()
 
 K = 6
 startList = OneWaySetUp(K)
-OneWaySetUp(K)
 dataList =  OneWayDataEx6(K)
 
 analysisList = OneWayAnalysis(startList,dataList)

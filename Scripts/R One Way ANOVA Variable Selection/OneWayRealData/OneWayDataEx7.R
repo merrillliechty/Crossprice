@@ -1,4 +1,4 @@
-OneWayDataEx6 <- function(K)
+OneWayDataEx7 <- function(K)
 {
   # browser()
   
@@ -21,7 +21,7 @@ OneWayDataEx6 <- function(K)
   tsig2 = 1
   
   # Read in data file
-  tdData <- read.csv("../../../Data/data_ex6_ppt.csv", header = TRUE)
+  tdData <- read.csv("../../../Data/data_ex7_ppt.csv", header = TRUE)
   y = tdData[[4]]
   xFactor = tdData[[1]]
   n <- length(y)
