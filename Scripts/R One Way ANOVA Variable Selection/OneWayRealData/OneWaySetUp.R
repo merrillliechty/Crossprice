@@ -1,6 +1,6 @@
 OneWaySetUp <- function(K)
 {
-  useAllCombinations = FALSE
+  useAllCombinations = TRUE
   useOrderedCombinations = !useAllCombinations
   
   #browser()
